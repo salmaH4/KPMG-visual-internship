@@ -1,4 +1,4 @@
-# KPMG-visual-internship
+# KPMG internship
 * Completed a simulation focused on advising a client on customer targeting
    with the Data, Analytics & Modelling team
  * Assessed data quality and completeness in preparation for analysis
