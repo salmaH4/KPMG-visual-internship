@@ -6,10 +6,6 @@
    attributes
  * Developed dashboards to communicate findings with visuals
 ---
-# The Dashboard
-![Untitled](https://github.com/salmaH4/KPMG-visual-internship/assets/110805003/1ef29b63-41bf-4c0d-a573-8b05f13dd86a)
-![Screenshot_4](https://github.com/salmaH4/KPMG-visual-internship/assets/110805003/fd44a03f-af49-4339-bc90-583290769f45)
-
 
 ### Customer RFM Analysis
 - Who are the best clients?
